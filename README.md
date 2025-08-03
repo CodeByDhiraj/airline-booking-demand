@@ -23,7 +23,7 @@
 | ![](images/1.png) | ![](images/2.png) | ![](images/3.png) |
 | ![](images/4.png) | ![](images/5.png) | ![](images/6.png) |
 
-🖼️ Remaining: 7.png → 20.png stored in `/images/` folder.
+🖼️ Remaining: 7.png → 18.png stored in `/images/` folder.
 
 ---
 
