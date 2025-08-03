@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.env
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Flask + Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Flask instance folder
+instance/
+
+# Flask env files
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Plotly temp
+.plotly/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# API secrets (custom)
+config.json
+secret.json
+credentials.json
