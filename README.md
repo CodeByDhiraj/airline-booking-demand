@@ -64,9 +64,14 @@ pip install -r requirements.txt
 # 3. Run the Flask app
 python app.py
 
+# App runs on http://localhost:5000
+```
 
+---
 
+## 🗂️ Project Structure
 
+```
 airline-booking-demand/
 │
 ├── app.py                  # Main Flask server
@@ -91,21 +96,29 @@ airline-booking-demand/
 │   └── data.db
 │
 └── images/                 # Screenshots (1.png to 20.png)
+```
 
+---
 
-✍️ Author & Credits
-👨‍💻 Developed by Dhiraj Kumar
+## ✍️ Author & Credits
 
-🙏 Acknowledgments
-Skyscanner & AviationStack for free flight data APIs
+👨‍💻 Developed by **Dhiraj Kumar**  
+📬 [CodeByDhiraj on GitHub](https://github.com/CodeByDhiraj)
 
-Google Gemini for powerful NLP insights
+---
 
-Plotly & Pandas for beautiful charts
+## 🙏 Acknowledgments
 
-GitHub Copilot & ChatGPT for pairing help
+- Skyscanner & AviationStack for free flight data APIs  
+- Google Gemini for powerful NLP insights  
+- Plotly & Pandas for beautiful charts
 
-🐱‍💻 GitHub Repo Stats
-Star 🌟 this repo if you find it helpful!
+---
 
-# App runs on http://localhost:5000
+## 🐱‍💻 GitHub Repo Stats
+
+If you found this helpful:
+
+⭐ Star the repo  
+🔄 Share with your network  
+🛠️ Fork and build your own!
